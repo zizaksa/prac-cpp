@@ -1,6 +1,9 @@
 # C/C++ Study
 C/C++ 연습을 위한 레포지토리 입니다. 연습에 필요한 코드는 마스터 브랜치에 올릴 예정입니다. 그리고 작성한 코드는 여기 저장소의 개인의 **브랜치**에 푸시하여 주시기 바랍니다.
 
+## Assignments
+[Go to Link](https://github.com/zizaksa/prac-cpp/wiki/Cpp-%EC%8A%A4%ED%84%B0%EB%94%94)
+
 # Directory Structure
 ```
 + assignments
