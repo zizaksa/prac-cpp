@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+practice
+
+# Groom IDE
+goorm.manifest
