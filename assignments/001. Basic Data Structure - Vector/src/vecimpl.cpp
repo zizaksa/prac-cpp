@@ -1,4 +1,5 @@
 #include <vector>
+#include <algorithm>
 #include "vecimpl.hpp"
 
 using namespace std;
@@ -7,29 +8,27 @@ using namespace std;
 vector<int> vec;
 
 void PushBack(int value) {
-    // Write your code
+    vec.push_back(value);
 }
 
 void PopBack() {
-    // Write your code
+    vec.pop_back();
 }
 
 int Size() {
-    // Write your code
-    return 0;
+    return vec.size();
 }
 
 int GetValue(int idx) {
-    // Write your code
-    return 0;
+    return vec[idx];
 }
 
 void Clear() {
-    // Write yout code
+    vec.clear();
 }
 
 void Sort() {
-    // Write yout code
+    sort(vec.begin(),vec.end());
 }
 
 vector<int>::iterator Begin() {
